@@ -14,5 +14,11 @@ Então no dia tomei a liberdade de ler o código fonte e replicar a lógica ness
 Tenho interesse em ajudar o evento a evoluir e ser cada vez melhor, pode me contactar através de qualquer um dos seguintes canais:
 
 email: ti.fabioramalho@gmail.com
+
 whatsapp: (35) 99893-2776
+
 linkedin: https://www.linkedin.com/in/fabio-ramalho-46a90b174
+
+obs: o código .dart do app, onde a lógica está inserida, está na pasta /lib
+
+o resto são diretórios para configuração de plataforma e pacotes do aplicativo.
